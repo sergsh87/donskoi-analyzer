@@ -1,0 +1,7 @@
+donskoi-analyzer/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── app_7.py                 (ваш основной файл с кодом)
+├── app_7.spec               (файл конфигурации PyInstaller)
+├── requirements.txt         (файл зависимос

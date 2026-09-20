@@ -1,0 +1,5 @@
+PyQt6>=6.0.0
+pyqtgraph>=0.13.0
+numpy>=1.20.0
+mat73>=0.6.0
+pyinstaller>=5.0
