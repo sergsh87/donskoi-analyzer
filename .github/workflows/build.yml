@@ -34,4 +34,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: DonskoiAnalyzer-Windows-11
-        path: dist/DonskoiAnalyzer.exe
+        path: dist/main.exe
