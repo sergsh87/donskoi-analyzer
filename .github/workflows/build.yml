@@ -28,7 +28,7 @@ jobs:
 
     - name: Build with PyInstaller
       run: |
-        pyinstaller app_7.spec
+        pyinstaller main.spec
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
